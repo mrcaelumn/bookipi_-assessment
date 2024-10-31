@@ -1,0 +1,32 @@
+[
+	{
+		"_id": "sid-1",
+		"companyId": "cid-2",
+		"status": "active",
+		"subType": "pro",
+		"billingPeriod": "month",
+		"startDate": "2024-01-05T14:00:00Z",
+		"endDate": null,
+		"nextBillingDate": "2024-08-05T14:00:00Z"
+	},
+	{
+		"_id": "sid-3",
+		"companyId": "cid-2",
+		"status": "active",
+		"subType": "starter",
+		"billingPeriod": "annual",
+		"startDate": "2024-02-05T14:00:00Z",
+		"endDate": null,
+		"nextBillingDate": "2025-02-05T14:00:00Z"
+	},
+	{
+		"_id": "sid-4",
+		"companyId": "cid-4",
+		"status": "terminated",
+		"subType": "starter",
+		"billingPeriod": "monthly",
+		"startDate": "2024-03-15T12:00:00Z",
+		"endDate": "2024-06-18T12:00:00Z",
+		"nextBillingDate": null
+	}
+]

@@ -1,0 +1,50 @@
+[
+	{
+		"_id": "in-1",
+		"ci": "cid-2",
+		"it": [{ "name": "house cleaning", "quantity": 1, "price": 45000 }],
+		"pm": [
+			{
+				"date": "2024-01-01T12:23:34Z",
+				"amount": 45000
+			}
+		]
+	},
+	{
+		"_id": "in-2",
+		"ci": "cid-4",
+		"it": [{ "name": "pool cleaning", "quantity": 1, "price": 65000 }],
+		"pm": [{ "date": "2024-01-03T12:23:34Z", "amount": 65000 }]
+	},
+	{
+		"_id": "in-5",
+		"ci": "cid-3",
+		"it": [{ "name": "fix PC", "quantity": 3, "price": 6000 }],
+		"nt": "cleaning up malware and viruses",
+		"pm": [
+			{ "date": "2024-02-15T12:23:34Z", "amount": 6000 },
+			{ "date": "2024-02-17T12:23:34Z", "amount": 12000 }
+		]
+	},
+	{
+		"_id": "in-6",
+		"ci": "cid-3",
+		"it": [
+			{
+				"name": "consulting",
+				"quantity": 2,
+				"price": 9000
+			},
+			{
+				"name": "Development",
+				"quantity": 30,
+				"price": 12000
+			}
+		],
+		"pm": [
+			{ "date": "2024-01-03T12:23:34Z", "amount": 18000 },
+			{ "date": "2024-01-10T12:23:34Z", "amount": 180000 },
+			{ "date": "2024-02-05T12:23:34Z", "amount": 180000 }
+		]
+	}
+]

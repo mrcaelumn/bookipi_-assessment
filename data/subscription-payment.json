@@ -1,0 +1,126 @@
+[
+	{
+		"_id": "sp-1",
+		"subscriptionId": "sid-1",
+		"status": "success"
+		"date": "2024-01-05T15:00:11Z",
+		"billingPeriod": "20240105-20240205",
+		"amount": "1100",
+		"tax": "100",
+		"totalExcludingTax": "1000"
+	},
+	{
+		"_id": "sp-2",
+		"subscriptionId": "sid-1",
+		"status": "success"
+		"date": "2024-02-05T15:33:11Z",
+		"billingPeriod": "20240205-20240305",
+		"amount": "1100",
+		"tax": "100",
+		"totalExcludingTax": "1000"
+	},
+	{
+		"_id": "sp-3",
+		"subscriptionId": "sid-3",
+		"status": "success"
+		"date": "2024-02-05T15:00:11Z",
+		"billingPeriod": "20240205-20250205",
+		"amount": "11000",
+		"tax": "1000",
+		"totalExcludingTax": "10000"
+	},
+	{
+		"_id": "sp-4",
+		"subscriptionId": "sid-1",
+		"status": "failed",
+    "failedReason": "Insufficient funds",
+		"date": "2024-03-05T15:12:11Z",
+		"billingPeriod": "20240305-20240405",
+		"amount": "1100",
+		"tax": "100",
+		"totalExcludingTax": "1000"
+	},
+	{
+		"_id": "sp-5",
+		"subscriptionId": "sid-1",
+		"status": "success",
+		"date": "2024-03-06T15:11:30Z",
+		"billingPeriod": "20240305-20240405",
+		"amount": "1100",
+		"tax": "100",
+		"totalExcludingTax": "1000"
+	},
+	{
+		"_id": "sp-6",
+		"subscriptionId": "sid-4",
+		"status": "success",
+		"date": "2024-13-05T17:12:11Z",
+		"billingPeriod": "20240315-20240415",
+		"amount": "1100",
+		"tax": "100",
+		"totalExcludingTax": "1000"
+	},
+	{
+		"_id": "sp-7",
+		"subscriptionId": "sid-4",
+		"status": "success",
+		"date": "2024-04-15T15:12:11Z",
+		"billingPeriod": "20240415-20240515",
+		"amount": "1100",
+		"tax": "100",
+		"totalExcludingTax": "1000"
+	},
+	{
+		"_id": "sp-8",
+		"subscriptionId": "sid-4",
+		"status": "success",
+		"date": "2024-05-15T15:15:11Z",
+		"billingPeriod": "20240515-20240615",
+		"amount": "1100",
+		"tax": "100",
+		"totalExcludingTax": "1000"
+	},
+	{
+		"_id": "sp-9",
+		"subscriptionId": "sid-4",
+		"status": "success",
+		"date": "2024-06-15T15:12:11Z",
+		"billingPeriod": "20240615-20240715",
+		"amount": "1100",
+		"tax": "100",
+		"totalExcludingTax": "1000"
+	},
+	{
+		"_id": "sp-10",
+		"subscriptionId": "sid-4",
+		"status": "failed",
+    "failedReason": "Exceeded usage limit",
+		"date": "2024-06-15T15:12:11Z",
+		"billingPeriod": "20240615-20240715",
+		"amount": "1100",
+		"tax": "100",
+		"totalExcludingTax": "1000"
+	},
+	{
+		"_id": "sp-11",
+		"subscriptionId": "sid-4",
+		"status": "failed",
+    "failedReason": "Exceeded usage limit",
+		"date": "2024-06-16T15:12:11Z",
+		"billingPeriod": "20240615-20240715",
+		"amount": "1100",
+		"tax": "100",
+		"totalExcludingTax": "1000"
+	},
+	{
+		"_id": "sp-12",
+		"subscriptionId": "sid-4",
+		"status": "failed",
+    "failedReason": "Exceeded usage limit",
+		"date": "2024-06-17T15:12:11Z",
+		"billingPeriod": "20240615-20240715",
+		"amount": "1100",
+		"tax": "100",
+		"totalExcludingTax": "1000"
+	}
+]

@@ -1,0 +1,37 @@
+[
+	{
+		"_id": "cid-1",
+		"owner": "id-1",
+		"c": "John's Company",
+		"co": "AU",
+		"st": "NSW",
+		"cr": "AUD",
+		"e": "help@john.com"
+	},
+	{
+		"_id": "cid-2",
+		"owner": "id-2",
+		"c": "Tim's Company",
+		"co": "AU",
+		"st": "QLD",
+		"cr": "AUD",
+		"e": "support@tim.com"
+	},
+	{
+		"_id": "cid-3",
+		"owner": "id-3",
+		"c": "Some Company",
+		"co": "US",
+		"st": "DE",
+		"e": "support2@example.com"
+	},
+	{
+		"_id": "cid-4",
+		"owner": "id-2",
+		"e": "support@tim.com"
+		"c": "Tim's Other Company",
+		"co": "AU",
+    "cr": "AUD",
+		"st": "NSW",
+	}
+]

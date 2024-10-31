@@ -1,0 +1,23 @@
+[
+	{
+		"_id": "id-1",
+		"e": "some-user@example.com",
+		"dci": "cid-1",
+		"f": "John",
+		"l": "Sun"
+	},
+	{
+		"_id": "id-2",
+		"e": "some-user@example.com",
+		"dci": "cid-2",
+		"f": "Tim",
+		"l": "Lee"
+	},
+	{
+		"_id": "id-3",
+		"e": "some-user@example.com",
+		"dci": "cid-3",
+		"f": "Unknown",
+		"l": "User"
+	}
+]
